@@ -14,3 +14,4 @@ while 5<6:
         y = y //2
     print(newnum1)
     buda bir yenilik olsun
+    bu da burdan olsun bakalım
