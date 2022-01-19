@@ -13,5 +13,4 @@ while 5<6:
         newnum1.insert(0,newnum)
         y = y //2
     print(newnum1)
-    buda bir yenilik olsun
-    bu da burdan olsun bakalım
+    
